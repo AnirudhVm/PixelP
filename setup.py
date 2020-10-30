@@ -11,7 +11,7 @@ setup(
   version = '0.1',     
   license='MIT',        
   description = 'image augmeantation and preprocessing tool',   
-  Long_description="Image augmeantation and preprocessing tool",
+  Long_description = "Image augmeantation and preprocessing tool",
   author = 'Anirudh VM, Tanisha Bisarya, Aarsh Ghewde, Ekansh Trivedi, Yash Sawant' ,                 
   author_email = 'anirudh.vm63@nmims.edu.in',  
   url = 'https://github.com/AnirudhVm/PixelP',   
