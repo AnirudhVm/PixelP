@@ -4,5 +4,5 @@
 # In[ ]:
 
 
-from PixelP import Process
+from PixelP.PixelP import Process
 
